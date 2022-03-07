@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "966701915796",
+    "project_id": "khanabachao-5845b",
+    "storage_bucket": "khanabachao-5845b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966701915796:android:cc5e8fd8398a2cceba9e81",
+        "android_client_info": {
+          "package_name": "com.example.khana_bachao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966701915796-cue526j6mcu6agadlokhlf70oqit15sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNJ3nh3ZZQtjqJt743VkS3H6fA2ac4PDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966701915796-cue526j6mcu6agadlokhlf70oqit15sd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
